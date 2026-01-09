@@ -16,7 +16,7 @@ This project helps users track daily expenses, store them persistently, and view
 - Clean, modular project structure
 - Beginner-friendly and extensible
 
----
+---bash
 
 ## 🗂 Project Structure
 
