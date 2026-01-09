@@ -31,7 +31,7 @@ cli-expense-tracker/
 │ └── expenses.json # Expense data (ignored in git)
 ├── README.md
 ├── .gitignore
-└── venv/ # Virtual environment (ignored)
+└── venv/ # Virtual environment (Ignored)
 
 ---
 
